@@ -36,7 +36,10 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_svg: ^2.0.0
   video_player: ^2.0.0
-  animated_mesh_gradient: ^1.0.0
+  mesh_gradient: ^1.0.0
+  speech_to_text: ^7.0.0
+  flutter_tts: ^4.0.0
+  google_generative_ai: ^0.4.0
 
 dev_dependencies:
   flutter_test:
